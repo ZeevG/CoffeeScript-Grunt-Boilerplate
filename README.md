@@ -1,4 +1,8 @@
 CoffeeScript-Grunt-Boilerplate
 ==============================
 
-A boilerplate project for development with CoffeeScript using Grunt and Browserify.
+A boilerplate project for development in CoffeeScript using Grunt and Browserify.
+
+Includes:
+ * jQuery
+ * Font-awesome
